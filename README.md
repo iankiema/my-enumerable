@@ -44,7 +44,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Word/message decoding**
+- **Display of test results on terminal**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
